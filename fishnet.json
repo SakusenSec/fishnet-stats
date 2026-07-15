@@ -1,0 +1,295 @@
+{
+  "updated": "2026-07-24T22:05:09Z",
+  "since": "2026-07-08",
+  "total_games": 22880,
+  "total_games_h": "22,880",
+  "total_positions": 1188894,
+  "total_positions_h": "1,188,894",
+  "total_nodes": 311944821828,
+  "total_nodes_h": "311,944,821,828",
+  "total_nodes_compact": "311.9B",
+  "days_tracked": 16,
+  "avg_per_day": 1212,
+  "hosts": [
+    {
+      "id": "Racknerd",
+      "games": 10865,
+      "cores": 1,
+      "ram_gb": 2,
+      "cpu": "Xeon E5-2680 v2 @ 2.80GHz",
+      "knps": 277,
+      "last_seen": "2026-07-24T22:00:14+0000",
+      "avg_per_day": 612,
+      "days_tracked": 16
+    },
+    {
+      "id": "OVH",
+      "games": 6977,
+      "cores": 1,
+      "ram_gb": 2,
+      "cpu": "Haswell-class vCPU @ 2.0GHz",
+      "knps": 120,
+      "last_seen": "2026-07-24T21:59:46+0000",
+      "avg_per_day": 383,
+      "days_tracked": 16
+    },
+    {
+      "id": "VPSHostingService.co",
+      "games": 2590,
+      "cores": 1,
+      "ram_gb": 1,
+      "cpu": "Xeon Gold 5118 @ 2.30GHz",
+      "knps": 80,
+      "last_seen": "2026-07-24T22:00:05+00:00",
+      "avg_per_day": 325,
+      "days_tracked": 7
+    },
+    {
+      "id": "OVH2",
+      "games": 2448,
+      "cores": 4,
+      "ram_gb": 8,
+      "cpu": "Haswell-class vCPU @ 2.4GHz",
+      "knps": 542,
+      "last_seen": "2026-07-24T21:59:30+00:00",
+      "avg_per_day": 0,
+      "days_tracked": 0
+    }
+  ],
+  "per_day": [
+    {
+      "date": "2026-07-08",
+      "count": 1041,
+      "by_host": {
+        "Racknerd": 589,
+        "OVH": 452
+      }
+    },
+    {
+      "date": "2026-07-09",
+      "count": 985,
+      "by_host": {
+        "Racknerd": 613,
+        "OVH": 372
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "count": 925,
+      "by_host": {
+        "Racknerd": 596,
+        "OVH": 329
+      }
+    },
+    {
+      "date": "2026-07-11",
+      "count": 971,
+      "by_host": {
+        "Racknerd": 606,
+        "OVH": 365
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "count": 950,
+      "by_host": {
+        "Racknerd": 566,
+        "OVH": 384
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "count": 943,
+      "by_host": {
+        "Racknerd": 591,
+        "OVH": 352
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "count": 959,
+      "by_host": {
+        "Racknerd": 606,
+        "OVH": 353
+      }
+    },
+    {
+      "date": "2026-07-15",
+      "count": 995,
+      "by_host": {
+        "Racknerd": 623,
+        "OVH": 372
+      }
+    },
+    {
+      "date": "2026-07-16",
+      "count": 996,
+      "by_host": {
+        "Racknerd": 623,
+        "VPSHostingService.co": 13,
+        "OVH": 360
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "count": 1289,
+      "by_host": {
+        "Racknerd": 634,
+        "VPSHostingService.co": 328,
+        "OVH": 327
+      }
+    },
+    {
+      "date": "2026-07-18",
+      "count": 1340,
+      "by_host": {
+        "Racknerd": 668,
+        "VPSHostingService.co": 344,
+        "OVH": 328
+      }
+    },
+    {
+      "date": "2026-07-19",
+      "count": 1269,
+      "by_host": {
+        "Racknerd": 624,
+        "VPSHostingService.co": 329,
+        "OVH": 316
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "count": 1242,
+      "by_host": {
+        "Racknerd": 594,
+        "VPSHostingService.co": 312,
+        "OVH": 336
+      }
+    },
+    {
+      "date": "2026-07-21",
+      "count": 1353,
+      "by_host": {
+        "Racknerd": 616,
+        "VPSHostingService.co": 300,
+        "OVH": 437
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "count": 1485,
+      "by_host": {
+        "Racknerd": 648,
+        "VPSHostingService.co": 328,
+        "OVH": 509
+      }
+    },
+    {
+      "date": "2026-07-23",
+      "count": 2653,
+      "by_host": {
+        "Racknerd": 600,
+        "OVH2": 1191,
+        "VPSHostingService.co": 331,
+        "OVH": 531
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "count": 2622,
+      "by_host": {
+        "Racknerd": 564,
+        "OVH2": 1257,
+        "VPSHostingService.co": 305,
+        "OVH": 496
+      }
+    }
+  ],
+  "by_hour": [
+    642,
+    587,
+    638,
+    616,
+    585,
+    635,
+    820,
+    884,
+    903,
+    1060,
+    1054,
+    1093,
+    1204,
+    1207,
+    1415,
+    1309,
+    1321,
+    1198,
+    1143,
+    1108,
+    1099,
+    922,
+    759,
+    678
+  ],
+  "by_dow": [
+    2185,
+    3174,
+    3521,
+    4634,
+    4836,
+    2311,
+    2219
+  ],
+  "recent": [
+    {
+      "id": "k58LA0Is",
+      "url": "https://lichess.org/k58LA0Is",
+      "ts": "2026-07-24T22:00:14+0000"
+    },
+    {
+      "id": "ewdQlfdl",
+      "url": "https://lichess.org/ewdQlfdl",
+      "ts": "2026-07-24T21:59:46+0000"
+    },
+    {
+      "id": "NWEz0ExL",
+      "url": "https://lichess.org/NWEz0ExL",
+      "ts": "2026-07-24T21:59:00+00:00"
+    },
+    {
+      "id": "nbqbzQTQ",
+      "url": "https://lichess.org/nbqbzQTQ",
+      "ts": "2026-07-24T21:57:55+0000"
+    },
+    {
+      "id": "LEg5MVAW",
+      "url": "https://lichess.org/LEg5MVAW",
+      "ts": "2026-07-24T21:57:02+00:00"
+    },
+    {
+      "id": "yF1RnQRh",
+      "url": "https://lichess.org/yF1RnQRh",
+      "ts": "2026-07-24T21:55:30+00:00"
+    },
+    {
+      "id": "A2isgQ5m",
+      "url": "https://lichess.org/A2isgQ5m",
+      "ts": "2026-07-24T21:54:15+0000"
+    },
+    {
+      "id": "PjiKHuto",
+      "url": "https://lichess.org/PjiKHuto",
+      "ts": "2026-07-24T21:53:26+0000"
+    },
+    {
+      "id": "QuME5HFq",
+      "url": "https://lichess.org/QuME5HFq",
+      "ts": "2026-07-24T21:52:37+00:00"
+    },
+    {
+      "id": "vpMcC7MQ",
+      "url": "https://lichess.org/vpMcC7MQ",
+      "ts": "2026-07-24T21:51:27+0000"
+    }
+  ]
+}
